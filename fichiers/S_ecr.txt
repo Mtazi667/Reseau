@@ -1,0 +1,5 @@
+Connexion 0 établie avec succès.
+Connexion 1 refusée/libérée.
+Connexion 2 refusée/libérée.
+Connexion 3 refusée/libérée.
+Connexion 0 libérée proprement.
